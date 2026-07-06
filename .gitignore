@@ -1,0 +1,6 @@
+*.fa.gz
+*.fasta.gz
+*.fa
+*.fastq
+*.fastq.gz
+*.sra
