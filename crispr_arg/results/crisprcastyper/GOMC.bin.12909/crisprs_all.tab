@@ -1,0 +1,2 @@
+Contig	CRISPR	Start	End	Consensus_repeat	N_repeats	Repeat_len	Spacer_len_avg	Repeat_identity	Spacer_identity	Spacer_len_sem	Trusted	Prediction	Subtype	Subtype_probability
+k63_668450	k63_668450_1	2468	2647	CGACCCGCCGCCGCGACGCTCGCGAG	3	26	51	100.0	50.0	1.0	True	Unknown	V-F2	0.709

@@ -1,0 +1,2 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+k63_760558	k63_760558@1	285	5936	I-G	75%	0%	I-G	12.0	['Csb1gr7_0_CAS-I-U', 'Csb2gr5_0_CAS-I-U', 'Cas3_0_IU']	[2, 3, 4]	['5.80e-50', '1.80e-93', '2.40e-114']	[0.428, 0.821, 0.719]	[0.988, 0.97, 0.748]	1	NA

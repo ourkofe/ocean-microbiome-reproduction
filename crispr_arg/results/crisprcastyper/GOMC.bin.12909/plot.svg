@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="136" height="400" viewBox="0 -400 136 400">
+<defs>
+</defs>
+<path d="M10.2,-200 L46.0,-200 L46.0,-150 L10.2,-150 L10.2,-200 Z" fill="white" stroke="white" stroke-width="4" />
+<path d="M10.2,-200 L17.36,-200 L17.36,-150 L10.2,-150 L10.2,-200 Z" fill="black" />
+<path d="M17.36,-200 L24.52,-200 L24.52,-150 L17.36,-150 L17.36,-200 Z" fill="#f0f0f0" />
+<path d="M24.52,-200 L31.68,-200 L31.68,-150 L24.52,-150 L24.52,-200 Z" fill="black" />
+<path d="M31.68,-200 L38.839999999999996,-200 L38.839999999999996,-150 L31.68,-150 L31.68,-200 Z" fill="#f0f0f0" />
+<path d="M38.839999999999996,-200 L45.99999999999999,-200 L45.99999999999999,-150 L38.839999999999996,-150 L38.839999999999996,-200 Z" fill="black" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CRISPR</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">Unknown: k63_668450_1 (2468-2647)</text>
+</svg>

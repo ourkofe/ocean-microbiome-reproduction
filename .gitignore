@@ -4,3 +4,4 @@
 *.fastq
 *.fastq.gz
 *.sra
+crispr_arg/data/raw/genomes/*.fa

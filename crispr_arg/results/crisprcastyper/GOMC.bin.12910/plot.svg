@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1230" height="400" viewBox="0 -400 1230 400">
+<defs>
+</defs>
+<path d="M210,-20 L210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-330" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-330" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-330" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-330" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-330" font-size="22" fill="grey" dy="0em">5000</text>
+<path d="M1210,-20 L1210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="1160" y="-330" font-size="22" fill="grey" dy="0em">6000</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">I-G: k63_760558@1 (285-5936)</text>
+<path d="M10.2,-200 L224.20000000000002,-200 L254.20000000000002,-175.0 L224.20000000000002,-150 L10.2,-150 L10.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">Csb1gr7</text>
+<path d="M253.60000000000002,-200 L569.6,-200 L599.6,-175.0 L569.6,-150 L253.60000000000002,-150 L253.60000000000002,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="253.60000000000002" y="-120" font-size="26" fill="black" dy="0em">Csb2gr5</text>
+<path d="M598.2,-200 L1110.4,-200 L1140.4,-175.0 L1110.4,-150 L598.2,-150 L598.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="598.2" y="-210" font-size="26" fill="black" dy="0em">Cas3</text>
+</svg>
