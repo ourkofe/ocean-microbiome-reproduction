@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 set -e
-
+ 
 OUTDIR="../data/raw/genomes"
 mkdir -p "$OUTDIR"
 cd "$OUTDIR"
-
-# Sample ID / Assembly ID / 파일명(Sample name 기반)
-# 적도 근처(대서양, 위도 ~0도) 5개 + 북극해(위도 86.86) 5개
+ 
 declare -a ENTRIES=(
   "CNS0704744 CNA0056696 GOMC.bin.4441"
   "CNS0704745 CNA0056699 GOMC.bin.4442"
@@ -18,11 +16,32 @@ declare -a ENTRIES=(
   "CNS0711422 CNA0063551 GOMC.bin.12907"
   "CNS0711424 CNA0063561 GOMC.bin.12909"
   "CNS0711425 CNA0063566 GOMC.bin.12910"
+  "CNS0705080 CNA0058199 GOMC.bin.4781"
+  "CNS0705081 CNA0058205 GOMC.bin.4782"
+  "CNS0706284 CNA0064885 GOMC.bin.7457"
+  "CNS0705442 CNA0060434 GOMC.bin.5205"
+  "CNS0705447 CNA0060471 GOMC.bin.5210"
+  "CNS0705448 CNA0060481 GOMC.bin.5211"
+  "CNS0705450 CNA0060495 GOMC.bin.5213"
+  "CNS0705451 CNA0060502 GOMC.bin.5214"
+  "CNS0705452 CNA0060511 GOMC.bin.5215"
+  "CNS0705458 CNA0060552 GOMC.bin.5221"
+  "CNS0711426 CNA0063571 GOMC.bin.12911"
+  "CNS0711427 CNA0063574 GOMC.bin.12912"
+  "CNS0711437 CNA0063624 GOMC.bin.12922"
+  "CNS0711438 CNA0063630 GOMC.bin.12923"
+  "CNS0711439 CNA0063634 GOMC.bin.12924"
+  "CNS0711440 CNA0063640 GOMC.bin.12925"
+  "CNS0711423 CNA0063556 GOMC.bin.12908"
+  "CNS0711442 CNA0063650 GOMC.bin.12927"
+  "CNS0711443 CNA0063657 GOMC.bin.12928"
+  "CNS0711428 CNA0063580 GOMC.bin.12913"
 )
-
+ 
 for entry in "${ENTRIES[@]}"; do
   read -r sample assembly binname <<< "$entry"
   url="ftp://ftp.cngb.org/pub/CNSA/data2/CNP0004049/${sample}/${assembly}/${binname}.fa.gz"
   echo "downloading ${binname}.fa.gz ..."
   wget -c "$url"
+  gunzip -kf "${binname}.fa.gz"
 done

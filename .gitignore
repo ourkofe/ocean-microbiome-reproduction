@@ -5,3 +5,6 @@
 *.fastq.gz
 *.sra
 crispr_arg/data/raw/genomes/*.fa
+crispr_arg/data/card_db/
+crispr_arg/OGT_prediction/
+crispr_arg/data/raw/genomes/

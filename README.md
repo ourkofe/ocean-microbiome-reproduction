@@ -1,8 +1,29 @@
 # 논문 재현 프로젝트
+# Ocean Microbiome Paper Reproduction
 
-Chen et al., Nature 2024 - Global marine microbial diversity and its 
-potential in bioprospecting 논문 방법론 재현
+Chen et al., "Global marine microbial diversity and its potential in bioprospecting", Nature (2024) 재현 프로젝트.
+https://doi.org/10.1038/s41586-024-07891-2
 
-일단 두 가지 진행 중:
-- CRISPR-Cas / ARG 관계 확인
-- PETase 발굴 파이프라인
+논문 전체를 재현하는 건 불가능해서, 방법론 위주로 핵심 파이프라인 두 가지만 재현 중.
+
+## 진행 상황
+
+- [x] Stage 1: CRISPR-Cas ↔ ARG 트레이드오프 (게놈 30개)
+- [ ] Stage 0/2: GOMC/GOPC 구축 + PETase 발굴
+
+## 폴더
+
+- `crispr_arg/` — Stage 1
+- (추가 예정) PETase 관련 폴더
+
+## 데이터 출처
+
+- Stage 1: CNGBdb GOMC 게놈 카탈로그 (Dataset ID: MDB0000002)
+- Stage 0/2: NCBI SRA, BioProject PRJNA412741 (논문 Supplementary Table 5 accession 기반)
+
+## 재현 스케일 (논문 대비)
+
+| | 논문 | 재현 |
+|---|---|---|
+| 게놈 수 | 24,195 | 30 |
+| 통계 검정 | nested ANOVA, P<0.001 | 정성적 관찰 |
