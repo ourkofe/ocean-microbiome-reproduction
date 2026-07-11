@@ -8,3 +8,8 @@ crispr_arg/data/raw/genomes/*.fa
 crispr_arg/data/card_db/
 crispr_arg/OGT_prediction/
 crispr_arg/data/raw/genomes/
+# PETase 관련 대용량 파일
+petase/data/raw/
+petase/data/clean/
+petase/results/assembly/
+
