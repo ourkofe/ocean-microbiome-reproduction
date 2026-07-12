@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="577" height="400" viewBox="0 -400 577 400">
+<defs>
+</defs>
+<path d="M210,-20 L210,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-330" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-320" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-330" font-size="22" fill="grey" dy="0em">2000</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">I-E: k63_1081987@1 (3-2390)</text>
+<path d="M10.2,-200 L235.60000000000002,-200 L265.6,-175.0 L235.60000000000002,-150 L10.2,-150 L10.2,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">Cas8e</text>
+<path d="M265.0,-200 L357.8,-200 L387.8,-175.0 L357.8,-150 L265.0,-150 L265.0,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="265.0" y="-120" font-size="26" fill="black" dy="0em">Cse2gr11</text>
+<path d="M394.20000000000005,-200 L457.6,-200 L487.6,-175.0 L457.6,-150 L394.20000000000005,-150 L394.20000000000005,-200 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="394.20000000000005" y="-210" font-size="26" fill="black" dy="0em">Cas7</text>
+</svg>

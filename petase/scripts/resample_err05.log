@@ -1,0 +1,8 @@
+nohup: ignoring input
+[INFO][0m sample by proportion
+[INFO][0m 14923812 sequences outputted
+[INFO][0m sample by proportion
+[INFO][0m 14923812 sequences outputted
+완료
+-rw-r--r-- 1 kbiomanuser20 kbioman 1457754850  7월 12 18:27 ../subsampled/ERR1679395_1.sub2.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 1485796072  7월 12 19:22 ../subsampled/ERR1679395_2.sub2.fq.gz

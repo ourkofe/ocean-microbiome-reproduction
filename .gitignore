@@ -13,3 +13,6 @@ petase/data/raw/
 petase/data/clean/
 petase/results/assembly/
 
+petase/data/
+*.log
+petase/results/orf/*/genes.fna

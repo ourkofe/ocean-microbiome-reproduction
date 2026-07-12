@@ -1,0 +1,8 @@
+nohup: ignoring input
+=== subsampling SRR6144754 (dsPETase01), target=10000000 reads ===
+[INFO][0m sample by number
+[INFO][0m loading all sequences into memory...
+subsample_reads.sh: line 21: 216371 Killed                  seqkit sample -n $n -s $SEED "${IN}/${id}_1.clean.fq.gz" -o "${OUT}/${id}_1.sub.fq.gz"
+!!! SRR6144754 _1 실패
+[INFO][0m sample by number
+[INFO][0m loading all sequences into memory...

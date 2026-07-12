@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "protein.db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/crispr_arg/localDB/proteindb.fsa",
+  "number-of-letters": 2069096,
+  "number-of-sequences": 6284,
+  "last-updated": "2026-07-10T10:38:00",
+  "number-of-volumes": 1,
+  "bytes-total": 3088741,
+  "bytes-to-cache": 2125829,
+  "files": [
+    "protein.db.pdb",
+    "protein.db.phr",
+    "protein.db.pin",
+    "protein.db.pot",
+    "protein.db.psq",
+    "protein.db.ptf",
+    "protein.db.pto"
+  ]
+}

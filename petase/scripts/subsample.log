@@ -1,0 +1,10 @@
+nohup: ignoring input
+=== subsampling SRR6144754 (dsPETase01), fraction=0.15 ===
+[INFO][0m sample by proportion
+subsample_reads.sh: line 21: 1815608 Killed                  seqkit sample -p $FRACTION -s $SEED "${IN}/${id}_1.clean.fq.gz" -o "${OUT}/${id}_1.sub.fq.gz"
+!!! SRR6144754 _1 실패
+[INFO][0m sample by proportion
+subsample_reads.sh: line 21: 129419 Killed                  seqkit sample -p $FRACTION -s $SEED "${IN}/${id}_2.clean.fq.gz" -o "${OUT}/${id}_2.sub.fq.gz"
+!!! SRR6144754 _2 실패
+=== subsampling SRR6057749 (dsPETase03), fraction=0.15 ===
+[INFO][0m sample by proportion

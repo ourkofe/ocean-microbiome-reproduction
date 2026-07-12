@@ -1,0 +1,17 @@
+nohup: ignoring input
+[INFO][0m sample by proportion
+[INFO][0m 4999115 sequences outputted
+[INFO][0m sample by proportion
+[INFO][0m 4999115 sequences outputted
+[INFO][0m sample by proportion
+[INFO][0m 5003400 sequences outputted
+[INFO][0m sample by proportion
+[INFO][0m 5003400 sequences outputted
+=== 서브샘플링 완료 ===
+total 1814012
+drwxr-xr-x 2 kbiomanuser20 kbioman      4096  7월 12 08:05 .
+drwxr-xr-x 6 kbiomanuser20 kbioman      4096  7월 12 01:00 ..
+-rw-r--r-- 1 kbiomanuser20 kbioman 490231491  7월 12 08:05 ERR1679395_1.sub.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 499645423  7월 12 10:46 ERR1679395_2.sub.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 401847880  7월 12 03:51 SRR6144754_1.sub.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 465791146  7월 12 05:09 SRR6144754_2.sub.fq.gz

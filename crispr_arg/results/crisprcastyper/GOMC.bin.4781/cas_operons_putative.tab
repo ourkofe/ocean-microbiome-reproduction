@@ -1,0 +1,15 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+k83_15952	k83_15952@1	1826	2737	False	0%	NA	III-A	1.0	['AbiEii_0_CAS-III']	[5]	['4.70e-13']	[0.372]	[0.373]	NA	NA
+k83_27417	k83_27417@1	4238	5791	False	0%	NA	III-A	1.0	['Csx1_18_CAS-III']	[6]	['2.20e-03']	[0.361]	[0.452]	NA	NA
+k83_113904	k83_113904@1	961	1623	False	0%	NA	III-A	1.0	['AbiEii_0_CAS-III']	[2]	['8.00e-06']	[0.534]	[0.405]	NA	NA
+k83_1137500	k83_1137500@1	1	225	False	0%	0%	I-A	0.0	['Csa3_1_CAS-I-II-III-IV-V-VI']	[1]	['5.30e-10']	[0.907]	[0.636]	NA	NA
+k83_109206	k83_109206@1	2	421	False	0%	0%	I-A	0.0	['CasR_1_CAS-I-II-III-IV-V-VI']	[1]	['3.40e-03']	[0.629]	[0.413]	NA	NA
+k83_473320	k83_473320@1	1	528	False	0%	NA	IV-B	3.0	['CysH_0_IVB']	[1]	['2.50e-03']	[0.432]	[0.301]	NA	NA
+k83_567636	k83_567636@1	177	956	False	0%	NA	III-A	1.0	['AbiEii_1_CAS-III-A']	[2]	['4.00e-05']	[0.4]	[0.322]	NA	NA
+k83_607633	k83_607633@1	2449	3171	False	0%	NA	III-A	1.0	['AbiEii_0_CAS-III']	[5]	['4.60e-04']	[0.527]	[0.433]	NA	NA
+k83_947918	k83_947918@1	2135	2404	False	17%	NA	III-D	4.0	['Csm2gr11_1_CAS-III-D']	[2]	['2.90e-03']	[0.511]	[0.309]	-1	NA
+k83_1913446	k83_1913446@1	1707	2387	False	0%	0%	I-A	0.0	['DEDDh_0_CAS-I-II-III-IV-V-VI']	[4]	['1.50e-41']	[0.714]	[0.994]	NA	NA
+k83_643547	k83_643547@1	3702	5633	False	20%	NA	IV-A1	2.0	['Csf4_0_IVA']	[6]	['1.50e-56']	[0.911]	[0.898]	-1	NA
+k83_43099	k83_43099@1	7159	9162	False	14%	0%	I-A	2.0	['Cas3_0_CAS-I']	[10]	['1.20e-14']	[0.448]	[0.895]	1	NA
+k83_21699	k83_21699@1	976	1653	False	0%	NA	III-A	1.0	['AbiEii_0_CAS-III']	[2]	['1.30e-03']	[0.438]	[0.335]	NA	NA
+k83_116317	k83_116317@1	3119	4006	False	0%	33%	II-A	3.0	['Csn2_7_CAS-II-A']	[6]	['2.10e-03']	[0.463]	[0.371]	NA	-1

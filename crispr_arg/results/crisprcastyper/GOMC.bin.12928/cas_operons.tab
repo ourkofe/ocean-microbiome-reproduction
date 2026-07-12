@@ -1,0 +1,2 @@
+Contig	Operon	Start	End	Prediction	Complete_Interference	Complete_Adaptation	Best_type	Best_score	Genes	Positions	E-values	CoverageSeq	CoverageHMM	Strand_Interference	Strand_Adaptation
+k63_14827	k63_14827@1	2	2689	I-B	60%	0%	I-B	10.0	['Cas6_13_CAS-I-II-III-IV-V-VI', 'Cas8b2_1_CAS-I-B', 'Cas7_1_IB']	[1, 2, 3]	['7.10e-15', '1.90e-52', '2.60e-59']	[0.841, 0.718, 0.837]	[0.351, 1.0, 0.903]	1	NA

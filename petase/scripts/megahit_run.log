@@ -1,0 +1,20 @@
+nohup: ignoring input
+=== assembling SRR6144754 (dsPETase01) ===
+2026-07-11 21:13:25 - MEGAHIT v1.2.9
+2026-07-11 21:13:25 - Using megahit_core with POPCNT and BMI2 support
+2026-07-11 21:13:25 - Convert reads to binary library
+2026-07-11 21:28:07 - b'INFO  sequence/io/sequence_lib.cpp  :   75 - Lib 0 (/BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/petase/data/clean/SRR6144754_1.clean.fq.gz,/BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/petase/data/clean/SRR6144754_2.clean.fq.gz): pe, 108931382 reads, 150 max length'
+2026-07-11 21:28:07 - b'INFO  utils/utils.h                 :  152 - Real: 882.1625\tuser: 137.3466\tsys: 18.3998\tmaxrss: 256140'
+2026-07-11 21:28:07 - k-max reset to: 141 
+2026-07-11 21:28:07 - Start assembly. Number of CPU threads 8 
+2026-07-11 21:28:07 - k list: 21,29,39,59,79,99,119,141 
+2026-07-11 21:28:07 - Memory used: 486876060057
+2026-07-11 21:28:07 - Extract solid (k+1)-mers for k = 21 
+2026-07-11 21:43:40 - Build graph for k = 21 
+2026-07-11 21:57:41 - Assemble contigs from SdBG for k = 21
+2026-07-11 23:39:17 - Local assembly for k = 21
+2026-07-11 23:52:24 - Extract iterative edges from k = 21 to 29 
+2026-07-12 00:02:57 - Build graph for k = 29 
+2026-07-12 00:15:12 - Assemble contigs from SdBG for k = 29
+2026-07-12 00:22:47 - Error occurs, please refer to /BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/petase/results/assembly/SRR6144754/log for detail
+2026-07-12 00:22:47 - Command: /BiO/kbioman/kbiomanuser20/miniconda3/envs/petase_env/bin/megahit_core assemble -s /BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/petase/results/assembly/SRR6144754/tmp/k29/29 -o /BiO/kbioman/kbiomanuser20/ocean-microbiome-reproduction/petase/results/assembly/SRR6144754/intermediate_contigs/k29 -t 8 --min_standalone 1000 --prune_level 2 --merge_len 20 --merge_similar 0.95 --cleaning_rounds 5 --disconnect_ratio 0.1 --low_local_ratio 0.2 --cleaning_rounds 5 --min_depth 2 --bubble_level 2 --max_tip_len -1 --careful_bubble; Exit code -15

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1137" height="800" viewBox="0 -800 1137 800">
+<defs>
+</defs>
+<path d="M210,-20 L210,-720" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-730" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-720" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-730" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-720" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-730" font-size="22" fill="grey" dy="0em">3000</text>
+<path d="M810,-20 L810,-720" stroke="grey" stroke-width="1" fill="none" />
+<text x="760" y="-730" font-size="22" fill="grey" dy="0em">4000</text>
+<path d="M1010,-20 L1010,-720" stroke="grey" stroke-width="1" fill="none" />
+<text x="960" y="-730" font-size="22" fill="grey" dy="0em">5000</text>
+<text x="16.0" y="-660" font-size="38" fill="black" dy="0em">I-E: k63_600063@1 (1-2663)</text>
+<path d="M10.2,-600 L214.0,-600 L244.0,-575.0 L214.0,-550 L10.2,-550 L10.2,-600 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="10.2" y="-610" font-size="26" fill="black" dy="0em">Cas7</text>
+<path d="M244.8,-600 L365.20000000000005,-600 L395.20000000000005,-575.0 L365.20000000000005,-550 L244.8,-550 L244.8,-600 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="244.8" y="-520" font-size="26" fill="black" dy="0em">Cas5</text>
+<path d="M394.6,-600 L512.6,-600 L542.6,-575.0 L512.6,-550 L394.6,-550 L394.6,-600 Z" fill="#dd1424" fill-opacity="0.8" stroke="#dd1424" stroke-width="4" />
+<text x="394.6" y="-610" font-size="26" fill="black" dy="0em">Cas6e</text>
+<text x="16.0" y="-460" font-size="38" fill="black" dy="0em">I-E: k63_5637@1 (112-5299)</text>
+<path d="M40.2,-400 L121.0,-400 L121.0,-350 L40.2,-350 L10.2,-375.0 L40.2,-400 Z" fill="#ff80e6" fill-opacity="0.8" stroke="#ff80e6" stroke-width="4" />
+<text x="10.2" y="-410" font-size="26" fill="black" dy="0em">DEDDh</text>
+<path d="M144.0,-400 L648.4000000000001,-400 L678.4000000000001,-375.0 L648.4000000000001,-350 L144.0,-350 L144.0,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="144.0" y="-320" font-size="26" fill="black" dy="0em">Cas3</text>
+<path d="M753.2,-400 L1017.6000000000001,-400 L1047.6000000000001,-375.0 L1017.6000000000001,-350 L753.2,-350 L753.2,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="753.2" y="-410" font-size="26" fill="black" dy="0em">Cas8e</text>
+<path d="M10.2,-200 L77.0,-200 L77.0,-150 L10.2,-150 L10.2,-200 Z" fill="white" stroke="white" stroke-width="4" />
+<path d="M10.2,-200 L17.62222222222222,-200 L17.62222222222222,-150 L10.2,-150 L10.2,-200 Z" fill="black" />
+<path d="M17.62222222222222,-200 L25.04444444444444,-200 L25.04444444444444,-150 L17.62222222222222,-150 L17.62222222222222,-200 Z" fill="#f0f0f0" />
+<path d="M25.04444444444444,-200 L32.46666666666666,-200 L32.46666666666666,-150 L25.04444444444444,-150 L25.04444444444444,-200 Z" fill="black" />
+<path d="M32.46666666666666,-200 L39.888888888888886,-200 L39.888888888888886,-150 L32.46666666666666,-150 L32.46666666666666,-200 Z" fill="#f0f0f0" />
+<path d="M39.888888888888886,-200 L47.31111111111111,-200 L47.31111111111111,-150 L39.888888888888886,-150 L39.888888888888886,-200 Z" fill="black" />
+<path d="M47.31111111111111,-200 L54.733333333333334,-200 L54.733333333333334,-150 L47.31111111111111,-150 L47.31111111111111,-200 Z" fill="#f0f0f0" />
+<path d="M54.733333333333334,-200 L62.15555555555556,-200 L62.15555555555556,-150 L54.733333333333334,-150 L54.733333333333334,-200 Z" fill="black" />
+<path d="M62.15555555555556,-200 L69.57777777777778,-200 L69.57777777777778,-150 L62.15555555555556,-150 L62.15555555555556,-200 Z" fill="#f0f0f0" />
+<path d="M69.57777777777778,-200 L77.0,-200 L77.0,-150 L69.57777777777778,-150 L69.57777777777778,-200 Z" fill="black" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CRISPR: I-G</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">I-G: k63_204939_1 (65-399)</text>
+</svg>

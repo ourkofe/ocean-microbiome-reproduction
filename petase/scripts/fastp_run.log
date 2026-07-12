@@ -1,0 +1,311 @@
+nohup: ignoring input
+=== QC: SRR6144754 (dsPETase01) ===
+Read1 before filtering:
+total reads: 54476111
+total bases: 8171416650
+Q20 bases: 8074352099(98.8121%)
+Q30 bases: 7885737033(96.5039%)
+Q40 bases: 6907679697(84.5347%)
+
+Read2 before filtering:
+total reads: 54476111
+total bases: 8171416650
+Q20 bases: 7884331635(96.4867%)
+Q30 bases: 7432161289(90.9532%)
+Q40 bases: 5906697083(72.2849%)
+
+Read1 after filtering:
+total reads: 54465691
+total bases: 8157686533
+Q20 bases: 8063262280(98.8425%)
+Q30 bases: 7876728315(96.5559%)
+Q40 bases: 6902210776(84.6099%)
+
+Read2 after filtering:
+total reads: 54465691
+total bases: 8157686533
+Q20 bases: 7877078766(96.5602%)
+Q30 bases: 7427890672(91.0539%)
+Q40 bases: 5904728910(72.3824%)
+
+Filtering result:
+reads passed filter: 108931382
+reads failed due to low quality: 28
+reads failed due to too many N: 20812
+reads failed due to too short: 0
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 485248
+bases trimmed due to adapters: 24339240
+
+Duplication rate: 0.00539319%
+
+Insert size peak (evaluated by paired-end reads): 269
+
+JSON report: ../data/clean/SRR6144754_fastp.json
+HTML report: ../data/clean/SRR6144754_fastp.html
+
+fastp -i ../data/raw/reads/SRR6144754_1.fastq -I ../data/raw/reads/SRR6144754_2.fastq -o ../data/clean/SRR6144754_1.clean.fq.gz -O ../data/clean/SRR6144754_2.clean.fq.gz -j ../data/clean/SRR6144754_fastp.json -h ../data/clean/SRR6144754_fastp.html --thread 8 
+fastp v1.3.6, time used: 116 seconds
+=== QC: SRR6057749 (dsPETase03) ===
+Read1 before filtering:
+total reads: 107419326
+total bases: 16220318226
+Q20 bases: 15472205876(95.3878%)
+Q30 bases: 14755414715(90.9687%)
+Q40 bases: 0(0%)
+
+Read2 before filtering:
+total reads: 107419326
+total bases: 16220318226
+Q20 bases: 14938481986(92.0973%)
+Q30 bases: 14026720005(86.4762%)
+Q40 bases: 0(0%)
+
+Read1 after filtering:
+total reads: 104339270
+total bases: 15729779439
+Q20 bases: 15110983594(96.0661%)
+Q30 bases: 14456621377(91.9061%)
+Q40 bases: 0(0%)
+
+Read2 after filtering:
+total reads: 104339270
+total bases: 15729779439
+Q20 bases: 14758238456(93.8236%)
+Q30 bases: 13896758859(88.3468%)
+Q40 bases: 0(0%)
+
+Filtering result:
+reads passed filter: 208678540
+reads failed due to low quality: 5899332
+reads failed due to too many N: 260780
+reads failed due to too short: 0
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 1725784
+bases trimmed due to adapters: 52031418
+
+Duplication rate: 0.348286%
+
+Insert size peak (evaluated by paired-end reads): 271
+
+JSON report: ../data/clean/SRR6057749_fastp.json
+HTML report: ../data/clean/SRR6057749_fastp.html
+
+fastp -i ../data/raw/reads/SRR6057749_1.fastq -I ../data/raw/reads/SRR6057749_2.fastq -o ../data/clean/SRR6057749_1.clean.fq.gz -O ../data/clean/SRR6057749_2.clean.fq.gz -j ../data/clean/SRR6057749_fastp.json -h ../data/clean/SRR6057749_fastp.html --thread 8 
+fastp v1.3.6, time used: 236 seconds
+=== QC: SRR1217566 (dsPETase04) ===
+Read1 before filtering:
+total reads: 94482334
+total bases: 9542715734
+Q20 bases: 9027853004(94.6047%)
+Q30 bases: 8482633984(88.8912%)
+Q40 bases: 2618178790(27.4364%)
+
+Read2 before filtering:
+total reads: 94482334
+total bases: 9542715734
+Q20 bases: 8817139481(92.3965%)
+Q30 bases: 8270191443(86.665%)
+Q40 bases: 2554882078(26.7731%)
+
+Read1 after filtering:
+total reads: 86603011
+total bases: 8449332842
+Q20 bases: 8239331619(97.5146%)
+Q30 bases: 7811145039(92.4469%)
+Q40 bases: 2500950596(29.5994%)
+
+Read2 after filtering:
+total reads: 86603011
+total bases: 8449332842
+Q20 bases: 8203336219(97.0886%)
+Q30 bases: 7749741870(91.7202%)
+Q40 bases: 2468578787(29.2163%)
+
+Filtering result:
+reads passed filter: 173206022
+reads failed due to low quality: 15674508
+reads failed due to too many N: 84138
+reads failed due to too short: 0
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 17336190
+bases trimmed due to adapters: 606708178
+
+Duplication rate: 40.8039%
+
+Insert size peak (evaluated by paired-end reads): 140
+
+JSON report: ../data/clean/SRR1217566_fastp.json
+HTML report: ../data/clean/SRR1217566_fastp.html
+
+fastp -i ../data/raw/reads/SRR1217566_1.fastq -I ../data/raw/reads/SRR1217566_2.fastq -o ../data/clean/SRR1217566_1.clean.fq.gz -O ../data/clean/SRR1217566_2.clean.fq.gz -j ../data/clean/SRR1217566_fastp.json -h ../data/clean/SRR1217566_fastp.html --thread 8 
+fastp v1.3.6, time used: 189 seconds
+=== QC: SRR6144757 (dsPETase06) ===
+Read1 before filtering:
+total reads: 48702697
+total bases: 7305404550
+Q20 bases: 7224838500(98.8972%)
+Q30 bases: 7062455903(96.6744%)
+Q40 bases: 6204970984(84.9367%)
+
+Read2 before filtering:
+total reads: 48702697
+total bases: 7305404550
+Q20 bases: 7071957862(96.8045%)
+Q30 bases: 6690622141(91.5846%)
+Q40 bases: 5360542928(73.3778%)
+
+Read1 after filtering:
+total reads: 48701426
+total bases: 7302335970
+Q20 bases: 7222517972(98.907%)
+Q30 bases: 7060691532(96.6909%)
+Q40 bases: 6204012860(84.9593%)
+
+Read2 after filtering:
+total reads: 48701426
+total bases: 7302335970
+Q20 bases: 7070535926(96.8257%)
+Q30 bases: 6689868063(91.6127%)
+Q40 bases: 5360244228(73.4045%)
+
+Filtering result:
+reads passed filter: 97402852
+reads failed due to low quality: 6
+reads failed due to too many N: 2536
+reads failed due to too short: 0
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 129778
+bases trimmed due to adapters: 5756106
+
+Duplication rate: 0.0043283%
+
+Insert size peak (evaluated by paired-end reads): 262
+
+JSON report: ../data/clean/SRR6144757_fastp.json
+HTML report: ../data/clean/SRR6144757_fastp.html
+
+fastp -i ../data/raw/reads/SRR6144757_1.fastq -I ../data/raw/reads/SRR6144757_2.fastq -o ../data/clean/SRR6144757_1.clean.fq.gz -O ../data/clean/SRR6144757_2.clean.fq.gz -j ../data/clean/SRR6144757_fastp.json -h ../data/clean/SRR6144757_fastp.html --thread 8 
+fastp v1.3.6, time used: 101 seconds
+=== QC: ERR1679394 (dsPETase02) ===
+Read1 before filtering:
+total reads: 171602289
+total bases: 17159594964
+Q20 bases: 16700613610(97.3252%)
+Q30 bases: 15559037104(90.6725%)
+Q40 bases: 4768482028(27.789%)
+
+Read2 before filtering:
+total reads: 171602289
+total bases: 17159955235
+Q20 bases: 16168882122(94.2245%)
+Q30 bases: 14706143942(85.7004%)
+Q40 bases: 4441747274(25.8844%)
+
+Read1 after filtering:
+total reads: 166122366
+total bases: 16589618819
+Q20 bases: 16225005298(97.8022%)
+Q30 bases: 15176064500(91.4793%)
+Q40 bases: 4686778493(28.2513%)
+
+Read2 after filtering:
+total reads: 166122366
+total bases: 16589556716
+Q20 bases: 15978447269(96.3163%)
+Q30 bases: 14620876890(88.133%)
+Q40 bases: 4428012200(26.6916%)
+
+Filtering result:
+reads passed filter: 332244732
+reads failed due to low quality: 10420324
+reads failed due to too many N: 539460
+reads failed due to too short: 62
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 1286238
+bases trimmed due to adapters: 45174625
+
+Duplication rate: 19.3768%
+
+Insert size peak (evaluated by paired-end reads): 101
+
+JSON report: ../data/clean/ERR1679394_fastp.json
+HTML report: ../data/clean/ERR1679394_fastp.html
+
+fastp -i ../data/raw/reads/ERR1679394_1.fastq.gz -I ../data/raw/reads/ERR1679394_2.fastq.gz -o ../data/clean/ERR1679394_1.clean.fq.gz -O ../data/clean/ERR1679394_2.clean.fq.gz -j ../data/clean/ERR1679394_fastp.json -h ../data/clean/ERR1679394_fastp.html --thread 8 
+fastp v1.3.6, time used: 305 seconds
+=== QC: ERR1679395 (dsPETase05) ===
+Read1 before filtering:
+total reads: 173968461
+total bases: 17396086891
+Q20 bases: 17019969843(97.8379%)
+Q30 bases: 16046585687(92.2425%)
+Q40 bases: 5174566356(29.7456%)
+
+Read2 before filtering:
+total reads: 173968461
+total bases: 17396707610
+Q20 bases: 16594422898(95.3883%)
+Q30 bases: 15338571224(88.1694%)
+Q40 bases: 4851678353(27.8885%)
+
+Read1 after filtering:
+total reads: 169555320
+total bases: 16939952131
+Q20 bases: 16635002032(98.1998%)
+Q30 bases: 15726691528(92.8379%)
+Q40 bases: 5098864176(30.0996%)
+
+Read2 after filtering:
+total reads: 169555320
+total bases: 16939984758
+Q20 bases: 16436872799(97.03%)
+Q30 bases: 15260434608(90.0853%)
+Q40 bases: 4837107382(28.5544%)
+
+Filtering result:
+reads passed filter: 339110640
+reads failed due to low quality: 8353622
+reads failed due to too many N: 472586
+reads failed due to too short: 74
+reads failed due to adapter dimer: 0
+reads with adapter trimmed: 877980
+bases trimmed due to adapters: 31008065
+
+Duplication rate: 33.1168%
+
+Insert size peak (evaluated by paired-end reads): 101
+
+JSON report: ../data/clean/ERR1679395_fastp.json
+HTML report: ../data/clean/ERR1679395_fastp.html
+
+fastp -i ../data/raw/reads/ERR1679395_1.fastq.gz -I ../data/raw/reads/ERR1679395_2.fastq.gz -o ../data/clean/ERR1679395_1.clean.fq.gz -O ../data/clean/ERR1679395_2.clean.fq.gz -j ../data/clean/ERR1679395_fastp.json -h ../data/clean/ERR1679395_fastp.html --thread 8 
+fastp v1.3.6, time used: 304 seconds
+=== QC 전체 완료 ===
+total 118632132
+drwxr-xr-x 2 kbiomanuser20 kbioman        4096  7월 11 18:29 .
+drwxr-xr-x 5 kbiomanuser20 kbioman        4096  7월 11 18:08 ..
+-rw-r--r-- 1 kbiomanuser20 kbioman 16229671614  7월 11 18:24 ERR1679394_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 16571597382  7월 11 18:24 ERR1679394_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      467447  7월 11 18:24 ERR1679394_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      123315  7월 11 18:24 ERR1679394_fastp.json
+-rw-r--r-- 1 kbiomanuser20 kbioman 16277224107  7월 11 18:29 ERR1679395_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 16617251166  7월 11 18:29 ERR1679395_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      467163  7월 11 18:29 ERR1679395_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      123226  7월 11 18:29 ERR1679395_fastp.json
+-rw-r--r-- 1 kbiomanuser20 kbioman  7092763296  7월 11 18:17 SRR1217566_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman  7165166689  7월 11 18:17 SRR1217566_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      468137  7월 11 18:17 SRR1217566_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      122078  7월 11 18:17 SRR1217566_fastp.json
+-rw-r--r-- 1 kbiomanuser20 kbioman 11321819981  7월 11 18:14 SRR6057749_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman 11739531091  7월 11 18:14 SRR6057749_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      498041  7월 11 18:14 SRR6057749_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      142091  7월 11 18:14 SRR6057749_fastp.json
+-rw-r--r-- 1 kbiomanuser20 kbioman  4548145078  7월 11 18:10 SRR6144754_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman  5213250155  7월 11 18:10 SRR6144754_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      489424  7월 11 18:10 SRR6144754_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      136081  7월 11 18:10 SRR6144754_fastp.json
+-rw-r--r-- 1 kbiomanuser20 kbioman  4060832544  7월 11 18:19 SRR6144757_1.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman  4638269039  7월 11 18:19 SRR6144757_2.clean.fq.gz
+-rw-r--r-- 1 kbiomanuser20 kbioman      489705  7월 11 18:19 SRR6144757_fastp.html
+-rw-r--r-- 1 kbiomanuser20 kbioman      136178  7월 11 18:19 SRR6144757_fastp.json

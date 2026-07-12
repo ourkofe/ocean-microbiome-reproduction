@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="637" height="600" viewBox="0 -600 637 600">
+<defs>
+</defs>
+<path d="M210,-20 L210,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="160" y="-530" font-size="22" fill="grey" dy="0em">1000</text>
+<path d="M410,-20 L410,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="360" y="-530" font-size="22" fill="grey" dy="0em">2000</text>
+<path d="M610,-20 L610,-520" stroke="grey" stroke-width="1" fill="none" />
+<text x="560" y="-530" font-size="22" fill="grey" dy="0em">3000</text>
+<text x="16.0" y="-460" font-size="38" fill="black" dy="0em">I-B: k63_14827@1 (2-2689)</text>
+<path d="M10.2,-400 L17.800000000000004,-400 L47.800000000000004,-375.0 L17.800000000000004,-350 L10.2,-350 L10.2,-400 Z" fill="#dd1424" fill-opacity="0.8" stroke="#dd1424" stroke-width="4" />
+<text x="10.2" y="-410" font-size="26" fill="black" dy="0em">Cas6</text>
+<path d="M63.2,-400 L311.40000000000003,-400 L341.40000000000003,-375.0 L311.40000000000003,-350 L63.2,-350 L63.2,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="63.2" y="-320" font-size="26" fill="black" dy="0em">Cas8b2</text>
+<path d="M341.40000000000003,-400 L517.6,-400 L547.6,-375.0 L517.6,-350 L341.40000000000003,-350 L341.40000000000003,-400 Z" fill="#efc050" fill-opacity="0.8" stroke="#efc050" stroke-width="4" />
+<text x="341.40000000000003" y="-410" font-size="26" fill="black" dy="0em">Cas7</text>
+<path d="M10.2,-200 L52.2,-200 L52.2,-150 L10.2,-150 L10.2,-200 Z" fill="white" stroke="white" stroke-width="4" />
+<path d="M10.2,-200 L16.2,-200 L16.2,-150 L10.2,-150 L10.2,-200 Z" fill="black" />
+<path d="M16.2,-200 L22.2,-200 L22.2,-150 L16.2,-150 L16.2,-200 Z" fill="#f0f0f0" />
+<path d="M22.2,-200 L28.2,-200 L28.2,-150 L22.2,-150 L22.2,-200 Z" fill="black" />
+<path d="M28.2,-200 L34.2,-200 L34.2,-150 L28.2,-150 L28.2,-200 Z" fill="#f0f0f0" />
+<path d="M34.2,-200 L40.2,-200 L40.2,-150 L34.2,-150 L34.2,-200 Z" fill="black" />
+<path d="M40.2,-200 L46.2,-200 L46.2,-150 L40.2,-150 L40.2,-200 Z" fill="#f0f0f0" />
+<path d="M46.2,-200 L52.2,-200 L52.2,-150 L46.2,-150 L46.2,-200 Z" fill="black" />
+<text x="10.2" y="-210" font-size="26" fill="black" dy="0em">CRISPR</text>
+<text x="16.0" y="-260" font-size="38" fill="black" dy="0em">Unknown: k63_206179_1 (10747-10957)</text>
+</svg>
