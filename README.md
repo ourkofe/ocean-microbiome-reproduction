@@ -8,8 +8,8 @@ https://doi.org/10.1038/s41586-024-07891-2
 
 ## 진행 상황
 
-- [x] Stage 1: CRISPR-Cas ↔ ARG 트레이드오프 (게놈 30개)
-- [x] Stage 0/2: PETase 재현 (dsPETase01, 05 완료, 촉매삼조체 보존 확인)
+- [x] Stage 1: CRISPR-Cas ↔ ARG 트레이드오프 (게놈 30개) — 위도 기준 경향 확인, 상세: crispr_arg/README.md
+- [x] Stage 0/2: PETase 발굴 (dsPETase01, 05) — 두 후보 모두 촉매삼조체 보존 확인, 상세: petase/README.md
 
 ## 폴더
 
