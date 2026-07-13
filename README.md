@@ -4,7 +4,7 @@
 Chen et al., "Global marine microbial diversity and its potential in bioprospecting", Nature (2024) 재현 프로젝트.
 https://doi.org/10.1038/s41586-024-07891-2
 
-논문 전체를 재현하는 건 불가능해서, 방법론 위주로 핵심 파이프라인 두 가지만 재현 중.
+논문 전체를 재현하는 건 어려움이 있어, 방법론 위주로 핵심 파이프라인 두 가지만 재현.
 
 ## 진행 상황
 
